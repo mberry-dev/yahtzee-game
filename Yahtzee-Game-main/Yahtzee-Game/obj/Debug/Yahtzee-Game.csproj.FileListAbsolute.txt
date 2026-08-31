@@ -1,0 +1,10 @@
+C:\Users\alber\OneDrive\Desktop\Yahtzee-Game\Yahtzee-Game\Yahtzee-Game\obj\Debug\Yahtzee-Game.csproj.AssemblyReference.cache
+C:\Users\alber\OneDrive\Desktop\Yahtzee-Game\Yahtzee-Game\Yahtzee-Game\obj\Debug\Yahtzee_Game.Form1.resources
+C:\Users\alber\OneDrive\Desktop\Yahtzee-Game\Yahtzee-Game\Yahtzee-Game\obj\Debug\Yahtzee_Game.Properties.Resources.resources
+C:\Users\alber\OneDrive\Desktop\Yahtzee-Game\Yahtzee-Game\Yahtzee-Game\obj\Debug\Yahtzee-Game.csproj.GenerateResource.cache
+C:\Users\alber\OneDrive\Desktop\Yahtzee-Game\Yahtzee-Game\Yahtzee-Game\obj\Debug\Yahtzee-Game.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Desktop\Yahtzee-Game\Yahtzee-Game\Yahtzee-Game\bin\Debug\Yahtzee-Game.exe.config
+C:\Users\alber\OneDrive\Desktop\Yahtzee-Game\Yahtzee-Game\Yahtzee-Game\bin\Debug\Yahtzee-Game.exe
+C:\Users\alber\OneDrive\Desktop\Yahtzee-Game\Yahtzee-Game\Yahtzee-Game\bin\Debug\Yahtzee-Game.pdb
+C:\Users\alber\OneDrive\Desktop\Yahtzee-Game\Yahtzee-Game\Yahtzee-Game\obj\Debug\Yahtzee-Game.exe
+C:\Users\alber\OneDrive\Desktop\Yahtzee-Game\Yahtzee-Game\Yahtzee-Game\obj\Debug\Yahtzee-Game.pdb
